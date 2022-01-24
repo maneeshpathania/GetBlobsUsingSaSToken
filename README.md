@@ -1,2 +1,2 @@
-# DownloadBlobsUsingSaSToken
-Download blobs from Azure container using sas token
+# GetBlobsUsingSaSToken
+Gets blobs from Azure container using sas token
